@@ -21,8 +21,10 @@ body{
 .grigio{
     color: darkgray;
 }
-span{
-    color: rgb(69, 138, 184);
+
+.piccolo{
+    color: grey;
+    font-size:x-small ;
 }
 .p-comments{
     font-size: smaller;
@@ -31,5 +33,13 @@ span{
     background-color: yellow;
 }
 .lista{
-    
+
+}
+.t-head{
+    text-align: left;
+    color: white;
+    background-color: steelblue;
+}
+.t-blu{
+    background-color: rgb(152, 222, 235);
 }
