@@ -32,8 +32,8 @@ body{
 .evidenziato{
     background-color: yellow;
 }
-.lista{
-
+.spazio{
+    width: 150px;
 }
 .t-head{
     text-align: left;
