@@ -1,0 +1,18 @@
+.pattern{
+    height: 100px;
+    position: relative;
+    background-color: rgb(69, 138, 184);
+    /* background-image: url(../img/pattern.png);
+    background-repeat: repeat; */
+}
+.logo{
+    width: 15%;
+    position: absolute;
+    bottom: 10%;
+    left: 0%;
+}
+.img{
+    height: 100%;
+    width: 100%; 
+    background-repeat: repeat-x;
+}
